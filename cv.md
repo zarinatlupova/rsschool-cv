@@ -12,4 +12,4 @@
 ## Languages
 * **Russian** - native speaker
 * **English** - B2
-* **Franch** - A2
+* **French** - A2
